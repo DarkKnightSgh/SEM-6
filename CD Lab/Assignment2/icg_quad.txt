@@ -1,0 +1,5 @@
+Generated Intermediate Code 
+t1 = > a bL1 = if t1 L2 = goto  L1 = Label  t2 = + a 1a = = t2  t3 = - b 1b = = t3  L2 = Label  t4 = * b at5 = + a t4a = = t5  Generated Intermediate Code 
+t1 = > a bL1 = if t1 L2 = goto  L1 = Label  t2 = + a 1a = = t2  t3 = - b 1b = = t3  L2 = Label  t4 = * b at5 = + a t4a = = t5  Generated Intermediate Code 
+t1 = > a bL1 = if t1 L2 = goto  L1 = Label  t2 = + a 1a = = t2  t3 = - b 1b = = t3  L2 = Label  t4 = * b at5 = + a t4a = = t5  Generated Intermediate Code 
+t1 = > a bL1 = if t1 L2 = goto  L1 = Label  t2 = + a 1a = = t2  t3 = - b 1b = = t3  L2 = Label  t4 = * b at5 = + a t4a = = t5  
