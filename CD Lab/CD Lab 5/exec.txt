@@ -1,0 +1,4 @@
+yacc -d parser.y
+lex lexer.l
+gcc y.tab.c lex.yy.c
+./a.out < test_input_1.c > output.txt
